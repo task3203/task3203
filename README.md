@@ -1,11 +1,10 @@
 # Hi there, I'm Taskeen Merchant 👋
 
 ### Master's Student in Data Science | AI & Machine Learning Enthusiast | Former Software Engineer
-
-I'm currently pursuing my **Master's in Data Science** at **TU Braunschweig, Germany**, after spending **2+ years as a Software Engineer at Tata Consultancy Services (TCS)**. I enjoy building intelligent systems that solve real-world problems by combining machine learning, data science, and software engineering.
-
+From Software Engineering ➜ Data Science ➜ Making Machines a Little Smarter Every Day
+I began my journey building software, but curiosity eventually pulled me toward Artificial Intelligence.
 I'm passionate about turning data into meaningful insights and developing AI applications that are practical, scalable, and impactful.
-
+Now I'm pursuing my Master's in Data Science at TU Braunschweig, building projects around Machine Learning, Deep Learning, Neural Networks, and Computer Vision—and enjoying every bit of the journey.
 ---
 
 ## 🚀 About Me
