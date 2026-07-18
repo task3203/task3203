@@ -2,7 +2,7 @@
 
 **From Software Engineering ➜ Data Science ➜ Making Machines a Little Smarter Every Day**
 
-I began my journey building software, but curiosity eventually pulled me toward Artificial Intelligence.
+I began my journey building software, but curiosity eventually pulled me toward Data Science.
 I'm passionate about turning data into meaningful insights and developing AI applications that are practical, scalable, and impactful.
 Now I'm pursuing my Master's in Data Science at TU Braunschweig, building projects around Machine Learning, Deep Learning, Neural Networks, and Computer Vision—and enjoying every bit of the journey.
 
